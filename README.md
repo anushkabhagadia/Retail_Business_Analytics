@@ -7,10 +7,9 @@ In this project, I analyze historical retail sales data to understand business p
 - Dataset Overview
   - Dataset: Sample Superstore Dataset
   - Source: Kaggle / Tableau Sample Data
-  - Description: Transaction-level retail sales data including orders, customers, products, regions, discounts, and profits
+  - Description: The dataset contains historical retail sales transactions, capturing information related to orders, customers, products, regions, and profitability. Each row represents a single order line item and includes both sales and operational attributes that can be used to evaluate overall business performance.
   - Key Variables:
-    - Order Date, Ship Date
-    - Sales, Profit, Discount
-    - Category, Sub-Category
-    - Region, State, City
-    - Customer Segment
+    - Order-level metrics: Sales, Quality, Discount, and Profit
+    - Product Information: Category and Sub-category
+    - Customer Segment & Shipping Details
+    - Region, State, City, and Postal code
